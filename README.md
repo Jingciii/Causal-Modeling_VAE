@@ -4,7 +4,8 @@ CS 7290 Project
 
 ## Timeline
 
-#### Pre-launching
+	 Pre-launching
+
 
 **Week 1**
 
@@ -16,7 +17,9 @@ CS 7290 Project
 - [ ] Literature Reviews
 - [ ] Task Assignment
 
-#### Developing
+
+	Developing
+	
 
 **Week 3**
 
@@ -37,7 +40,7 @@ CS 7290 Project
 - [ ] TBD
 
 
-#### Post-development
+	Post-development
  
  **Week 7**
  
