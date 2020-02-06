@@ -4,51 +4,48 @@ CS 7290 Project
 
 ## Timeline
 
- *  Pre-launching
+**Pre-launching**
 
 
-**Week 1**
+*Week 1*
 
 - [ ] Topic Determination 
 - [ ] Literature Reviews
 
-**Week 2**
+*Week 2*
 
 - [ ] Literature Reviews
 - [ ] Task Assignment
 
+**Developing**	
 
- * Pre-launching
-	
-
-**Week 3**
+*Week 3*
 
 - [ ] TBD
 
-**Week 4**
-
-- [ ] TBD
-
-
-**Week 5**
+*Week 4*
 
 - [ ] TBD
 
 
-**Week 6**
+*Week 5*
 
 - [ ] TBD
 
 
- * Post-development
+*Week 6*
+
+- [ ] TBD
+
+
+**Post-development**
  
- **Week 7**
+ *Week 7*
  
  - [ ] TBD
 
  
- 
- **Week 8**
+ *Week 8*
  
  - [ ] TBD
 
