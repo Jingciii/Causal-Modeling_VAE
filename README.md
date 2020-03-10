@@ -46,7 +46,10 @@ CS 7290 Project
 ### References
 
 [Causal Analysis of an Agent-Based Model of Human Behaviour](http://downloads.hindawi.com/journals/complexity/2017/8381954.pdf)
+
 [Agent-Based Models for Causal Inference](https://dash.harvard.edu/bitstream/handle/1/27201721/MURRAY-DISSERTATION-2016.pdf?sequence=3&isAllowed=y)
+
 [Picture: A Probabilistic Programming Language for Scene Perception](https://mrkulk.github.io/www_cvpr15/1999.pdf)
+
 [Approximate Bayesian Image Interpretation using
 Generative Probabilistic Graphics Programs](https://arxiv.org/pdf/1307.0060v1.pdf)
