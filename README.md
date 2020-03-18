@@ -47,6 +47,8 @@ CS 7290 Project
 
 [Understanding VAEs](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)
 
+[Tutorial Provided By TA](https://github.com/robertness/causalML/blob/master/tutorials/causal_vae_dsprites.ipynb)
+
 [Causal Analysis of an Agent-Based Model of Human Behaviour](http://downloads.hindawi.com/journals/complexity/2017/8381954.pdf)
 
 [Agent-Based Models for Causal Inference](https://dash.harvard.edu/bitstream/handle/1/27201721/MURRAY-DISSERTATION-2016.pdf?sequence=3&isAllowed=y)
