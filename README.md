@@ -51,6 +51,10 @@ CS 7290 Project
 
 [Pyro Documentation](http://docs.pyro.ai/en/stable/contrib.cevae.html)
 
+[An Introduction to Variational Autoencoders](https://arxiv.org/pdf/1906.02691.pdf)
+
+[Robustly Disentangled Causal Mechanisms: Validating Deep Representations for Interventional Robustness](https://arxiv.org/pdf/1811.00007.pdf)
+
 [Causal Analysis of an Agent-Based Model of Human Behaviour](http://downloads.hindawi.com/journals/complexity/2017/8381954.pdf)
 
 [Agent-Based Models for Causal Inference](https://dash.harvard.edu/bitstream/handle/1/27201721/MURRAY-DISSERTATION-2016.pdf?sequence=3&isAllowed=y)
