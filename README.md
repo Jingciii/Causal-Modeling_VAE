@@ -1,7 +1,18 @@
 # To-be-named
 CS 7290 Project
 
+### Project Goal
 
+Refactor the provided program such that there is a causal relationship between the given variables.
+
+
+### Confusions during Development
+
+ -  Where is the DAG? How to find it?
+ -  Which part to refactor?
+ -  What is the use of SCM?
+
+ 
 ## Timeline
 
 **Pre-launching**
@@ -9,8 +20,8 @@ CS 7290 Project
 
 *Week 1*
 
-- [ ] Topic Determination 
-- [ ] Literature Reviews
+- [x] Topic Determination 
+- [x] Literature Reviews
 
 *Week 2*
 
