@@ -1,4 +1,4 @@
-# To-be-named
+# Causal Model -- VAE
 CS 7290 Project
 
 ### Project Goal
