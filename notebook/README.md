@@ -14,6 +14,16 @@ A VAE is an autoencoder whose encodings distribution is regularised during the t
 
 ## How to explore this project
 
+### Dataset
+
+
+### Variantional Autoencoder
+
+### Stochastic Causal Model
+
+
+### Workflow
+
 <!---In this section, you will explain to other people how to navigate your project.
 
 I am going to use this section to explain how to set up your project directory.
@@ -43,13 +53,13 @@ Other notes:
 * Use links in the author's section to link you your own websites, Linkedin, online portfolios, etc.--->
 
 
-**Prerequisites**
+#### Prerequisites
 
 * Jupyter Notebook (you will need to setup GPU)
 * Or Google Colab 
 
 
-**Dependences**
+#### Dependences
 
  * pyro-ppl
  * torch
