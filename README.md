@@ -1,9 +1,11 @@
 # Causal Model -- VAE
-CS 7290 Project
+CS 7290 Project: Causal Modeling with a Variational Autoencoder
 
 ### Project Goal
 
 Refactor the provided program such that there is a causal relationship between the given variables.
+
+What would the image be like if we change something?
 
 
 ### Confusions during Development
@@ -25,33 +27,32 @@ Refactor the provided program such that there is a causal relationship between t
 
 *Week 2*
 
-- [ ] Literature Reviews
-- [ ] Task Assignment
+- [x] Literature Reviews
+- [x] Task Assignment
 
 **Developing**	
 
 *Week 3*
 
-- [ ] TBD
+- [x] Understanding the pyro tutorial for creating, training, and making inference on VAE models
+- [x] De-noising exogenous variables for image representations in SCM (stochastic causal model)
 
 *Week 4*
 
-- [ ] TBD
-
-
-*Week 5*
-
-- [ ] TBD
-
-
+- [x] Fine-tuning Encoder and Decoder in VAE model for refactoring
+- [x] Training the model so that the orignial images can be reconstructed
+- [x] Creating conditioned model on one of the labels
+- [x] Intervening on the conditioned model by applying do-operation on the other labels
+- [x] Visualizing results and drawing insights from them
 
 **Post-development**
  
 
  
- *Week 6*
+ *Week 5*
  
- - [ ] TBD
+ - [x] Formatting the notebook
+ - [x] Ready for presentation
 
 
 ### References
