@@ -16,11 +16,17 @@ A VAE is an autoencoder whose encodings distribution is regularised during the t
 
 ### Dataset
 
+The dataset we are using is the deep mind’s [dSprites](https://github.com/deepmind/dsprites-dataset) dataset, which is a dataset of 2D shapes procedurally generated from 6 ground truth independent latent factors. We will refer those 6 factors as labels (y in the code) in the following part. The labels are *color*, *shape*, *scale*, *orientation*, *x position* and *y position*. All possible combinations of these labels are present exactly once, generating N = 737280 total images.
 
 ### Variantional Autoencoder
 
+The VAE model is a deep casual model which consists of two neutral networks: encoder and decoder. Then encoder simulate the posterior distribution of latent variables given the true data and the prior, which is x and y in our model. Generally, we assume the latent variables follow normal distribution. The decoder will reconstruct the x given the latent variables. We would like to reconstruct the x as accurate as possible but we also don’t want our model to be overfitting. 
+
+
+
 ### Stochastic Causal Model
 
+The SCM is used for making inference by incorporating DAG so as to approximate the real data generating process of those image representation xs.
 
 ### Workflow
 
