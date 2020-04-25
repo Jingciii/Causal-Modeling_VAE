@@ -10,7 +10,7 @@ A VAE is an autoencoder whose encodings distribution is regularised during the t
 
 <!--- People often use predictive models to recommend actions within a particular domain.  However, those predictions are biased by confounding.  Addressing this issue requires a causal model.  We built a causal generative model to analyze data in this domain.  We used public data to validate the testable implications of the structure of the model.  We then chose a parametric form of the model that performed well in posterior predictive checks.  We show the causal effects of the action on the outcome and provide a simple Web app that illustrates an application of the proposed method.--->
 
-[See video abstract](https://www.youtube.com/watch?v=o3GfnEjTdIQ)
+[See video abstract](https://www.youtube.com/watch?v=K8UfsD9_YI4)
 
 ## How to explore this project
 
