@@ -26,9 +26,23 @@ The VAE model is a deep casual model which consists of two neutral networks: enc
 
 ### Stochastic Causal Model
 
-The SCM is used for making inference by incorporating DAG so as to approximate the real data generating process of those image representation xs.
+The SCM is used for making inference by incorporating DAG and play around with exogenous variables so as to approximate the real data generating process of those image representation xs.
 
-### Workflow
+### Structure
+
+ - *Main code*: `./causal_vae_dsprites.ipynb` 
+ - *Trained model* `./../model/trained_model_v4.save`. 
+ - *Slide*: `./../slide/presentation.pptx`
+
+You should adjust the path of model and dataset in the first code cell of the notebook
+
+The notebook is formatted as follows.
+
+ - **VAE Model**: Define the vae model as well as its essential components such as encoder and decoder
+ - **SCM of VAE**: Define the SCM to approximate the data generating process and assist with making inference
+ - **Helper Function and Sanity Check**: Create some function to generate, visualize and compare our image data
+ - **Make inference**: Build conditioned and intervened model. Then derive main insights of our project. 
+
 
 <!---In this section, you will explain to other people how to navigate your project.
 
@@ -40,11 +54,11 @@ Set up your project directory as you see fit.  The two most important things are
 
 ### Presentation
 
-<!---Presentation means you have done your best to make it easy for future students to understand and learn from your work.  A bad presentation is having many badly named notebooks with lots of code, and little text explanation.  NEU students will be penalized for poor presentation.
+Presentation means you have done your best to make it easy for future students to understand and learn from your work.  A bad presentation is having many badly named notebooks with lots of code, and little text explanation.  NEU students will be penalized for poor presentation.
 
 Presentation also means clean code.  **Python code must adhere to [flake8](http://flake8.pycqa.org/en/latest/index.html#quickstart)**, even if the code is inside Jupyter notebooks.  R code should follow R conventions.  I suggest the [tidyverse style guide](https://style.tidyverse.org/).
 
-**Avoid unneccesary code and output in notebooks**.  If loading a package in your R notebook causes a bunch of warnings and messages to be printed, turn message printing and warning printing off in that block of code.  Don't import libraries in your Jupyter notebook if you are not going to use them.  Don't have `!pip install ...` lines, just tell us what to install.  Don't have long-run on lines --->
+**Avoid unneccesary code and output in notebooks**.  If loading a package in your R notebook causes a bunch of warnings and messages to be printed, turn message printing and warning printing off in that block of code.  Don't import libraries in your Jupyter notebook if you are not going to use them.  Don't have `!pip install ...` lines, just tell us what to install.  Don't have long-run on lines 
 
 ### Reproducibility
 
